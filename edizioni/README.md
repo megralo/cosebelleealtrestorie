@@ -6,6 +6,10 @@ Archivio completo delle edizioni pubblicate.
 
 ## 2025
 
+### Dicembre
+
+- [Edizione 18](2025/18_20251206.md) - 06 dicembre 2025
+
 ### Novembre
 
 - [Edizione 17](2025/17_20251129.md) - 29 novembre 2025
