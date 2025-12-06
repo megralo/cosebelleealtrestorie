@@ -6,4 +6,4 @@ Cose Belle & Altre Storie: sette giorni di internet, libri, conversazioni e scop
 [megralo](https://substack.com/@megralo22)
 
 ## Archivio Completo
-Tutte le edizioni sono disponibili in `/edizioni`
+Tutte le edizioni sono disponibili in [archivio](edizioni/README.md)
