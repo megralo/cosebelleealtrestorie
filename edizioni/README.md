@@ -4,6 +4,15 @@ Archivio completo delle edizioni pubblicate.
 
 ---
 
+
+## 2026
+
+### Gennaio
+
+- [Edizione 22](2026/22_20260103.md) - 03 gennaio 2026
+
+
+
 ## 2025
 
 ### Dicembre
