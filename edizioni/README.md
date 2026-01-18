@@ -8,7 +8,8 @@ Archivio completo delle edizioni pubblicate.
 ## 2026
 
 ### Gennaio
-
+ 
+- [Edizione 24](2026/24_20260117.md) - 17 gennaio 2026
 - [Edizione 23](2026/23_20260110.md) - 10 gennaio 2026
 - [Edizione 22](2026/22_20260103.md) - 03 gennaio 2026
 
